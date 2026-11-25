@@ -4,3 +4,4 @@
 - 🤔 I’m looking for help with things like coding.
 - 💬 Ask me anything you’re curious about.
 - ⚡ Fun fact: My primary major is Industrial and Management Engineering.
+- 🔗 [Portfolio](https://leeyoonjung10.github.io)
